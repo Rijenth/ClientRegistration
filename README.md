@@ -20,6 +20,6 @@ le prénom et l'adresse mail d'une personne pour ensuite les stocker en base de 
 | Récupérer les données et effectuer des vérifications | ✅             | Vérification du format de l'adresse mail |
 | Permettre le stockage des informations dans un fichier texte | ✅             | |
 | Permettre le stockage des informations dans une base de donnée | ✅            | |
-| Liaison du programme avec une base de donnée avec de l'extension MySql.Data | ✅            | |
+| Liaison du programme avec une base de donnée avec l'extension MySql.Data | ✅            | |
 | Vérification de la disponibilité du serveur avant toute interaction | ✅            | |
 | Prise en compte des normes de sécurité lors de la création des requêtes SQL | ✅            | |
