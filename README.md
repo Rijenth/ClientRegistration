@@ -17,7 +17,7 @@ le prénom et l'adresse mail d'une personne pour ensuite les stocker en base de 
 
 | Fonctionnalité             | Disponibilité | Commentaire                                   | 
 | ------------------- | -- | ---------------------------------------- | 
-| Récupérer les données et effectuer des vérifications | ✅             | Vérification du format de l'adresse mail |
+| Récupérer et vérifier l'exactitude des données | ✅             | |
 | Permettre le stockage des informations dans un fichier texte | ✅             | |
 | Permettre le stockage des informations dans une base de donnée | ✅            | |
 | Liaison du programme avec une base de donnée avec l'extension MySql.Data | ✅            | |
