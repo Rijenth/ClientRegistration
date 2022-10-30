@@ -1,5 +1,3 @@
-"server=localhost;userid=root;password=root;database=MyClients"
-
 # Logiciel d'enregistrement de clients
 
 ### Description
